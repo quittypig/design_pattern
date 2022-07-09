@@ -1,4 +1,4 @@
-package com.designpatttern.example.factory
+package com.designpatttern.example.factory.factorymethod
 
 class English : Language() {
     override fun greeting() {
